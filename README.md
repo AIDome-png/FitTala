@@ -51,9 +51,8 @@ fittala/
 ├── create_admin.php        Command-line tool to create the first admin
 ├── seed.php                Loads sample data (admin or command line only)
 ├── database/
-│   └── fittala_schema.sql  CREATE DATABASE / CREATE TABLE / starter plans
-└── docs/
-    └── FitTala_System_Documentation.pdf
+    └── fittala_schema.sql  CREATE DATABASE / CREATE TABLE / starter plans
+
 ```
 
 ## Database
